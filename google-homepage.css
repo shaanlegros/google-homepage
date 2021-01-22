@@ -1,5 +1,23 @@
-<style>
-    .center-image {
-        display: flex;
-    }
-</style>
+footer {
+    background-color: rgb(248, 248, 248);
+}
+button:hover {
+    box-shadow: 1px 1px gray;
+    border-style: thin;
+}
+.rounded-search {
+    border-radius: 20px;
+    border-color: gray;
+    border-width: 1px;
+    padding-left: 200px;
+    padding-bottom: 15px;
+}
+.container {
+    display: block;
+    margin: auto;
+}
+
+div {
+    text-align: center;
+    margin-top: 20px;
+}
